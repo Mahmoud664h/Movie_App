@@ -24,6 +24,7 @@ class AppTheme {
   ); // TextTheme, ThemeData
 
   static final ThemeData darkTheme = ThemeData(
+    
     primaryColor: AppColors.primaryBlack,
     scaffoldBackgroundColor: AppColors.primaryBlack,
     appBarTheme: const AppBarTheme(

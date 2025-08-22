@@ -112,6 +112,54 @@ abstract class AppLocalizations {
   /// **'Update Data'**
   String get update_data;
 
+  /// No description provided for @email.
+  ///
+  /// In en, this message translates to:
+  /// **'Email'**
+  String get email;
+
+  /// No description provided for @password.
+  ///
+  /// In en, this message translates to:
+  /// **'Password'**
+  String get password;
+
+  /// No description provided for @forget_password.
+  ///
+  /// In en, this message translates to:
+  /// **'Forget Password ?'**
+  String get forget_password;
+
+  /// No description provided for @login.
+  ///
+  /// In en, this message translates to:
+  /// **'Login'**
+  String get login;
+
+  /// No description provided for @donot_have_account.
+  ///
+  /// In en, this message translates to:
+  /// **'Don’t Have Accoun ?'**
+  String get donot_have_account;
+
+  /// No description provided for @create_one.
+  ///
+  /// In en, this message translates to:
+  /// **'Create One'**
+  String get create_one;
+
+  /// No description provided for @or.
+  ///
+  /// In en, this message translates to:
+  /// **'OR'**
+  String get or;
+
+  /// No description provided for @login_with_google.
+  ///
+  /// In en, this message translates to:
+  /// **'Login With Google'**
+  String get login_with_google;
+
   /// No description provided for @reset_password.
   ///
   /// In en, this message translates to:
